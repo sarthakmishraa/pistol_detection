@@ -1,5 +1,7 @@
 No of classes : 1
 
+Classes : ['pistol']
+
 ![Detection Snip 1](images/pistol_snip1.jpg)
 
 
